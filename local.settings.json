@@ -1,0 +1,12 @@
+
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "myTimer": ""
+  },
+  "ConnectionStrings": {
+    "SQLConnection": "Driver={ODBC Driver 18 for SQL Server};Server=moli-dev-es-sqlserver.database.windows.net,1433;Database=moli-dev-es-sqldb;Uid=moli-dev-es-sql-admin;Pwd=HyIa0MInqwdpD3N;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+  }
+}
